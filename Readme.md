@@ -6,7 +6,7 @@ A simple Python application for demonstration purposes.
 
 1. Clone the repository:
    ```s
-   git clone https://github.com/your-username/my-python-app.git
+   git clone https://github.com/corps3d/cicd_demo.git
    cd my-python-app
    ```
 2. Install the dependencies:
